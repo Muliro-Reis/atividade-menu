@@ -34,3 +34,9 @@ table, th, td {
 td {
   padding: 10px;
 }
+h1 {
+  color: #ff0;
+}
+img {
+  width: 300px;
+}
